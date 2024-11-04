@@ -1,7 +1,12 @@
 /data
-/.ipynb_checkpoints
+.ipynb_checkpoints
 /marmot_data
 kaggle.json
 /modeling/yolov8n.pt
+<<<<<<< HEAD
 /data-understanding/Visualizations Images
 .idea
+=======
+.idea/
+/modeling/tablenet_model.h5
+>>>>>>> 833ce25f0d3bf96dbceab17e2e356bf865e8ec3b
