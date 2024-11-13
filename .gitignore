@@ -5,6 +5,8 @@ kaggle.json
 /modeling/yolov8n.pt
 <<<<<<< HEAD
 /data-understanding/Visualizations Images
+/data-understanding/images_stats.csv
+/data-preparation/comparison tables
 .idea
 =======
 .idea/
