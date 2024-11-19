@@ -1,14 +1,20 @@
+# Ignore all data files and folders
 /data
-.ipynb_checkpoints
 /marmot_data
-kaggle.json
-/modeling/yolov8n.pt
-<<<<<<< HEAD
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints
+/data-understanding/.ipynb_checkpoints
+
+# Ignore model files
+/modeling/trained_model/
+
+# Ignore specific data-understanding files and folders
 /data-understanding/Visualizations Images
 /data-understanding/images_stats.csv
+
+# Ignore specific data-preparation folders
 /data-preparation/comparison tables
-.idea
-=======
+
+# Ignore IDE-specific configuration files
 .idea/
-/modeling/tablenet_model.h5
->>>>>>> 833ce25f0d3bf96dbceab17e2e356bf865e8ec3b
