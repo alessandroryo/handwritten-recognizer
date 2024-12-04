@@ -17,7 +17,13 @@
 /data-preparation/comparison tables
 /data-preparation/Data
 /modeling/tablenet_model.h5
-
+/modeling/all_digit_objects_with_predictions.json
+/modeling/all_digit_objects_with_predictions_organized.json
+/modeling/Digit_Recognizer_Assignment.ipynb
+/modeling/all_digit_strings.json
+/modeling/digit_strings_output_dataframe_final.xlsx
+/modeling/test.csv
+/modeling/train.csv
 # Ignore IDE-specific configuration files
 .idea/
 
